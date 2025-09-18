@@ -39,4 +39,20 @@ you are done with your submission.
 
 ## Step 12.6 - Push to GitHub
 
-- Deesha : Pushed changes
+- Deesha : Pushed changes - saw them appear on GitHub.
+
+## Step 12.7 - Collaborate as a team
+
+- Deesha :
+
+## Step 12.8 - Knit README.Rmd
+
+- Deesha: Knit worked in first try.
+
+# Conclusion
+
+We successfully:
+
+\#Hey team! The conclusion just sums up what we did in this project—like
+editing the README, pushing changes, collaborating, and knitting the
+document. It also shows that everyone contributed equally.
