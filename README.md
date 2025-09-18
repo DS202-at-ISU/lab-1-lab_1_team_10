@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LpHtQdRY)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -17,3 +16,27 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+## Step 12.1 – Prerequisites
+
+- Deesha : Checked Git version, already installed.
+
+## Step 12.2 – Create Repo on GitHub
+
+- Deesha : Accepted GitHub Classroom invite, repo created successfully.
+
+## Step 12.3 - Clone Repo in RStudio
+
+- Deesha : Used https link, cloned repo without errors.
+
+## Step 12.4 - Edit README.Rmd
+
+- Deesha : Added initial notes here.
+
+## Step 12.5 - Commit Changes
+
+- Deesha : Staged and committed README.Rmd
+
+## Step 12.6 - Push to GitHub
+
+- Deesha : Pushed changes
