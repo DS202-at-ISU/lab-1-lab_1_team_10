@@ -18,10 +18,6 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
----
-title: "Lab Report #1 – Git + RStudio Collaboration"
-output: github_document
-
 **Step 12.1 – Prerequisites**  
 - Deesha: Git already installed.  
 - Maurycy: Installed Git and set up username/email.  
@@ -32,7 +28,7 @@ output: github_document
 
 **Step 12.3 – Clone Repo in RStudio**  
 - Deesha: Cloned with HTTPS link.  
-- Maurycy: Used “New Project → Version Control → Git” to clone.  
+- Maurycy: Used "New Project → Version Control → Git" to clone.  
 
 **Step 12.4 – Edit README.Rmd**  
 - Deesha: Added first notes.  
@@ -40,7 +36,7 @@ output: github_document
 
 **Step 12.5 – Commit Changes**  
 - Deesha: Committed first edit.  
-- Maurycy: Committed edit with message “Added Maurycy’s notes.”  
+- Maurycy: Committed edit with message "Added Maurycy's notes."  
 
 **Step 12.6 – Push to GitHub**  
 - Deesha: Pushed changes, saw them online.  
@@ -56,7 +52,7 @@ output: github_document
 ---
 
 ## Errors & Fixes
-- Couldn’t push at first → fixed with GitHub Personal Access Token (PAT).  
+- Couldn't push at first → fixed with GitHub Personal Access Token (PAT).  
 - Had trouble commiting → figured out I had to make a comment to move forward
 
 ---
@@ -69,4 +65,4 @@ We learned how to:
 - Knit the README  
 - Work together as a team  
 
-Members contributed equally.
+Both members contributed equally.
