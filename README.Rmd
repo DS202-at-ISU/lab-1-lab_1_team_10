@@ -70,5 +70,3 @@ We learned how to:
 - Work together as a team  
 
 Members contributed equally.
-
-#Hey team! The conclusion just sums up what we did in this project—like editing the README, pushing changes, collaborating, and knitting the document. It also shows that everyone contributed equally.
