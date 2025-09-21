@@ -1,15 +1,15 @@
 ---
+title: "Lab Report #1 – Git + RStudio Collaboration"
 output: github_document
 ---
-
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-
-```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-```
 
-# Lab report #1
+# Lab Report #1
+## Contributors
+- Deesha  
+- Maurycy  
 
 Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
 
@@ -18,46 +18,57 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-##  Step 12.1 – Prerequisites
-- Deesha : Checked Git version, already installed. 
+---
+title: "Lab Report #1 – Git + RStudio Collaboration"
+output: github_document
 
+**Step 12.1 – Prerequisites**  
+- Deesha: Git already installed.  
+- Maurycy: Installed Git and set up username/email.  
 
+**Step 12.2 – Create Repo**  
+- Deesha: Accepted GitHub Classroom invite.  
+- Maurycy: Joined Team 10, repo showed up on GitHub.  
 
+**Step 12.3 – Clone Repo in RStudio**  
+- Deesha: Cloned with HTTPS link.  
+- Maurycy: Used “New Project → Version Control → Git” to clone.  
 
-## Step 12.2 – Create Repo on GitHub
-- Deesha :  Accepted GitHub Classroom invite, repo created successfully. 
+**Step 12.4 – Edit README.Rmd**  
+- Deesha: Added first notes.  
+- Maurycy: Added my name under contributors.  
 
+**Step 12.5 – Commit Changes**  
+- Deesha: Committed first edit.  
+- Maurycy: Committed edit with message “Added Maurycy’s notes.”  
 
+**Step 12.6 – Push to GitHub**  
+- Deesha: Pushed changes, saw them online.  
+- Maurycy: Pushed with GitHub username  
 
-## Step 12.3 - Clone Repo in RStudio 
-- Deesha : Used https link, cloned repo without errors.
+**Step 12.7 – Collaborate as a Team**  
+- Both: Everyone will add their names and edits, pulling before pushing.  
 
+**Step 12.8 – Knit README.Rmd**  
+- Deesha: Knit worked fine.  
+- Maurycy: Knit was successful.  
 
+---
 
-## Step 12.4 - Edit README.Rmd
-- Deesha : Added initial notes here.
+## Errors & Fixes
+- Couldn’t push at first → fixed with GitHub Personal Access Token (PAT).  
+- Had trouble commiting → figured out I had to make a comment to move forward
 
+---
 
-## Step 12.5 - Commit Changes
-- Deesha : Staged and committed README.Rmd
+## Conclusion
+We learned how to:  
+- Accept the GitHub invite  
+- Clone the repo  
+- Edit, commit, and push changes  
+- Knit the README  
+- Work together as a team  
 
-
-
-## Step 12.6 - Push to GitHub
-- Deesha : Pushed changes - saw them appear on GitHub.
-
-
-
-## Step 12.7 - Collaborate as a team 
-- Deesha : 
-
-
-## Step 12.8 - Knit README.Rmd
-- Deesha: Knit worked in first try.
-
-
-# Conclusion
-We successfully:
+Members contributed equally.
 
 #Hey team! The conclusion just sums up what we did in this project—like editing the README, pushing changes, collaborating, and knitting the document. It also shows that everyone contributed equally.
-
