@@ -21,61 +21,61 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-**Step 12.1 – Prerequisites**
-- Deesha: Git already installed.
-- Maurycy: Installed Git and set up username/email.
-- Kade: Git already installed.
+**Step 12.1 – Prerequisites**\
+- Deesha: Git already installed.\
+- Maurycy: Installed Git and set up username/email.\
+- Kade: Git already installed.\
 
-**Step 12.2 – Create Repo**
-- Deesha: Accepted GitHub Classroom invite.
-- Maurycy: Joined Team 10, repo showed up on GitHub. 
+**Step 12.2 – Create Repo**\
+- Deesha: Accepted GitHub Classroom invite.\
+- Maurycy: Joined Team 10, repo showed up on GitHub.\
 - Kade: Joined team 10 repo invite.
 
-**Step 12.3 – Clone Repo in RStudio**
-- Deesha: Cloned with HTTPS link.
-- Maurycy: Used "New Project → Version Control → Git" to clone.
-- Kade: Cloned on R Studio using New Project/Version Control/Git
+**Step 12.3 – Clone Repo in RStudio**\
+- Deesha: Cloned with HTTPS link.\
+- Maurycy: Used "New Project → Version Control → Git" to clone.\
+- Kade: Cloned on R Studio using New Project/Version Control/Git\
 
-**Step 12.4 – Edit README.Rmd**
-- Deesha: Added first notes.
-- Maurycy: Added my name under contributors.
-- Kade: Added my name and notes from 12.1-12.4
+**Step 12.4 – Edit README.Rmd**\
+- Deesha: Added first notes.\
+- Maurycy: Added my name under contributors.\
+- Kade: Added my name and notes from 12.1-12.4\
 
-**Step 12.5 – Commit Changes**
-- Deesha: Committed first edit.
-- Maurycy: Committed edit with message "Added Maurycy's notes."
-- Kade: Committed my first edit.
+**Step 12.5 – Commit Changes**\
+- Deesha: Committed first edit.\
+- Maurycy: Committed edit with message "Added Maurycy's notes."\
+- Kade: Committed my first edit.\
 
-**Step 12.6 – Push to GitHub**
-- Deesha: Pushed changes, saw them online.
-- Maurycy: Pushed with GitHub username
-- Kade: Pushed to github, viewed the changes on the repository.
+**Step 12.6 – Push to GitHub**\
+- Deesha: Pushed changes, saw them online.\
+- Maurycy: Pushed with GitHub username\
+- Kade: Pushed to github, viewed the changes on the repository.\
 
-**Step 12.7 – Collaborate as a Team**
--Everyone added notes and committed separately.  
-- Verified all names appear in commit history.  
+**Step 12.7 – Collaborate as a Team**\
+- Everyone added notes and committed separately.\  
+- Verified all names appear in commit history.\ 
 
-**Step 12.8 – Knit README.Rmd**
-- Deesha: Knit worked fine.
-- Maurycy: Knit was successful.
-- Kade: Knit worked.
+**Step 12.8 – Knit README.Rmd**\
+- Deesha: Knit worked fine.\
+- Maurycy: Knit was successful.\
+- Kade: Knit worked.\
 
 ------------------------------------------------------------------------
 
-## Errors & Fixes
+## Errors & Fixes\
 
 -   Couldn't push at first → fixed with GitHub Personal Access Token (PAT).\
--   Had trouble commiting → figured out I had to make a comment to move forward
+-   Had trouble commiting → figured out I had to make a comment to move forward\
 
 ------------------------------------------------------------------------
 
-## Conclusion
+## Conclusion\
 
-We learned how to:
-- Accept the GitHub invite
-- Clone the repo
-- Edit, commit, and push changes
-- Knit the README
-- Work together as a team
+We learned how to:\
+- Accept the GitHub invite\
+- Clone the repo\
+- Edit, commit, and push changes\
+- Knit the README\
+- Work together as a team\
 
-All the members contributed equally.
+All the members contributed equally.\
