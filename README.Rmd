@@ -43,18 +43,21 @@ All submissions to the github repo will be automatically uploaded for grading on
 
 **Step 12.5 – Commit Changes**\
 - Deesha: Committed first edit.\
-- Maurycy: Committed edit with message "Added Maurycy's notes."
+- Maurycy: Committed edit with message "Added Maurycy's notes."\
+- Kade: Committed my first edit.
 
 **Step 12.6 – Push to GitHub**\
 - Deesha: Pushed changes, saw them online.\
-- Maurycy: Pushed with GitHub username
+- Maurycy: Pushed with GitHub username\
+- Kade: Pushed to github, viewed the changes on the repository.
 
 **Step 12.7 – Collaborate as a Team**\
-- Both: Everyone will add their names and edits, pulling before pushing.
+- All: Everyone will add their names and edits, pulling before pushing.
 
 **Step 12.8 – Knit README.Rmd**\
 - Deesha: Knit worked fine.\
-- Maurycy: Knit was successful.
+- Maurycy: Knit was successful.\
+- Kade: Knit worked.
 
 ------------------------------------------------------------------------
 

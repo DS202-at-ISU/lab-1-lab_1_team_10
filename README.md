@@ -9,8 +9,9 @@ knitr::opts_chunk\$set(echo = TRUE)
 
 ## Contributors
 
-- Deesha  
+- Deesha
 - Maurycy
+- Kade
 
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
@@ -28,34 +29,41 @@ you are done with your submission.
 
 **Step 12.1 – Prerequisites**  
 - Deesha: Git already installed.  
-- Maurycy: Installed Git and set up username/email.
+- Maurycy: Installed Git and set up username/email.  
+- Kade: Git already installed.
 
 **Step 12.2 – Create Repo**  
 - Deesha: Accepted GitHub Classroom invite.  
-- Maurycy: Joined Team 10, repo showed up on GitHub.
+- Maurycy: Joined Team 10, repo showed up on GitHub.  - Kade: Joined
+team 10 repo invite.
 
 **Step 12.3 – Clone Repo in RStudio**  
 - Deesha: Cloned with HTTPS link.  
-- Maurycy: Used “New Project → Version Control → Git” to clone.
+- Maurycy: Used “New Project → Version Control → Git” to clone.  
+- Kade: Cloned on R Studio using New Project/Version Control/Git
 
 **Step 12.4 – Edit README.Rmd**  
 - Deesha: Added first notes.  
-- Maurycy: Added my name under contributors.
+- Maurycy: Added my name under contributors.  
+- Kade: Added my name and notes from 12.1-12.4
 
 **Step 12.5 – Commit Changes**  
 - Deesha: Committed first edit.  
-- Maurycy: Committed edit with message “Added Maurycy’s notes.”
+- Maurycy: Committed edit with message “Added Maurycy’s notes.”  
+- Kade: Committed my first edit.
 
 **Step 12.6 – Push to GitHub**  
 - Deesha: Pushed changes, saw them online.  
-- Maurycy: Pushed with GitHub username
+- Maurycy: Pushed with GitHub username  
+- Kade: Pushed to github, viewed the changes on the repository.
 
 **Step 12.7 – Collaborate as a Team**  
-- Both: Everyone will add their names and edits, pulling before pushing.
+- All: Everyone will add their names and edits, pulling before pushing.
 
 **Step 12.8 – Knit README.Rmd**  
 - Deesha: Knit worked fine.  
-- Maurycy: Knit was successful.
+- Maurycy: Knit was successful.  
+- Kade: Knit worked.
 
 ------------------------------------------------------------------------
 
