@@ -2,67 +2,76 @@
 title: "Lab Report #1 – Git + RStudio Collaboration"
 output: github_document
 ---
+
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk\$set(echo = TRUE)
 
 # Lab Report #1
+
 ## Contributors
-- Deesha  
-- Maurycy  
 
-Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
+-   Deesha
+-   Maurycy
+-   Kade
 
-Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.  
+Follow the instructions posted at <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
 
-All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
-Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.
 
-**Step 12.1 – Prerequisites**  
-- Deesha: Git already installed.  
-- Maurycy: Installed Git and set up username/email.  
+All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-**Step 12.2 – Create Repo**  
-- Deesha: Accepted GitHub Classroom invite.  
-- Maurycy: Joined Team 10, repo showed up on GitHub.  
+**Step 12.1 – Prerequisites**\
+- Deesha: Git already installed.\
+- Maurycy: Installed Git and set up username/email.\
+- Kade: Git already installed.
 
-**Step 12.3 – Clone Repo in RStudio**  
-- Deesha: Cloned with HTTPS link.  
-- Maurycy: Used "New Project → Version Control → Git" to clone.  
+**Step 12.2 – Create Repo**\
+- Deesha: Accepted GitHub Classroom invite.\
+- Maurycy: Joined Team 10, repo showed up on GitHub.\ 
+- Kade: Joined team 10 repo invite.
 
-**Step 12.4 – Edit README.Rmd**  
-- Deesha: Added first notes.  
-- Maurycy: Added my name under contributors.  
+**Step 12.3 – Clone Repo in RStudio**\
+- Deesha: Cloned with HTTPS link.\
+- Maurycy: Used "New Project → Version Control → Git" to clone.\
+- Kade: Cloned on R Studio using New Project/Version Control/Git
 
-**Step 12.5 – Commit Changes**  
-- Deesha: Committed first edit.  
-- Maurycy: Committed edit with message "Added Maurycy's notes."  
+**Step 12.4 – Edit README.Rmd**\
+- Deesha: Added first notes.\
+- Maurycy: Added my name under contributors.\
+- Kade: Added my name and notes from 12.1-12.4
 
-**Step 12.6 – Push to GitHub**  
-- Deesha: Pushed changes, saw them online.  
-- Maurycy: Pushed with GitHub username  
+**Step 12.5 – Commit Changes**\
+- Deesha: Committed first edit.\
+- Maurycy: Committed edit with message "Added Maurycy's notes."
 
-**Step 12.7 – Collaborate as a Team**  
-- Both: Everyone will add their names and edits, pulling before pushing.  
+**Step 12.6 – Push to GitHub**\
+- Deesha: Pushed changes, saw them online.\
+- Maurycy: Pushed with GitHub username
 
-**Step 12.8 – Knit README.Rmd**  
-- Deesha: Knit worked fine.  
-- Maurycy: Knit was successful.  
+**Step 12.7 – Collaborate as a Team**\
+- Both: Everyone will add their names and edits, pulling before pushing.
 
----
+**Step 12.8 – Knit README.Rmd**\
+- Deesha: Knit worked fine.\
+- Maurycy: Knit was successful.
+
+------------------------------------------------------------------------
 
 ## Errors & Fixes
-- Couldn't push at first → fixed with GitHub Personal Access Token (PAT).  
-- Had trouble commiting → figured out I had to make a comment to move forward
 
----
+-   Couldn't push at first → fixed with GitHub Personal Access Token (PAT).\
+-   Had trouble commiting → figured out I had to make a comment to move forward
+
+------------------------------------------------------------------------
 
 ## Conclusion
-We learned how to:  
-- Accept the GitHub invite  
-- Clone the repo  
-- Edit, commit, and push changes  
-- Knit the README  
-- Work together as a team  
+
+We learned how to:\
+- Accept the GitHub invite\
+- Clone the repo\
+- Edit, commit, and push changes\
+- Knit the README\
+- Work together as a team
 
 Both members contributed equally.
